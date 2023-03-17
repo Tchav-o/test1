@@ -5,12 +5,6 @@ Self-contained website that allows users to register, login, and view/edit their
 Ability to change password, add image (cropped and resized).
 Image has its own url.
 
-(There is a commented code in "UploadImageController.php" file, for uploading image without resizing and cropping
-but for that you have to run this command:
-
-"php artisan storage:link"  
-
-to link the storage dir to a real url.)
 
 To start:
 1. copy the project;
