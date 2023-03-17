@@ -2,7 +2,7 @@
 
 Self-contained website that allows users to register, login, and view/edit their profile information.
 
-Ability to change password, add image (cropped and resized).
+Ability to change password, add image (cropped and resized).<br>
 Image has its own url.
 
 
